@@ -40,6 +40,7 @@
                 case '4';
                 require_once './page/P4.php';
                 break;
+                //// ----------------------
             }
         };
     ?>
